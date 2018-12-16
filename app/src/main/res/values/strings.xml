@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhatsYourName</string>
+    <string name="textContent">あなたの名前を教えてください</string>
+    <string name="enterYourName">Enter your name</string>
+    <string name="buttonText">Enter</string>
+    <string name="imageContentDescription">Enterが押されたときに出す画像</string>
+</resources>
