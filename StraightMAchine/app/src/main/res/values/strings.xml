@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StraightMachine</string>
+    <string name="button_fail">不合格です</string>
+    <string name="button_fight">頑張りましょう</string>
+    <string name="button_passed">合格です</string>
+    <string name="button_congratulations">おめでとうございます</string>
+    <string name="button_nice">よくできました</string>
+    <string name="button_bad">残念でした</string>
+</resources>
